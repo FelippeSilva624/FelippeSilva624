@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#Nome
+**`Função`**
+---
+
+###Linguagens de programação
+
+<img
+align ="left">
+alt="PHP"
+title="PHP"
+width="30px"
+style="padding-right:10px;"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=FelippeSilva624&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=FelippeSilva624&langs_count=4&theme=midnight-purple)
+          
