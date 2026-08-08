@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ###Linguagens de programação
 
 <img
-align ="left">
+align ="left"
 alt="PHP"
 title="PHP"
 width="20px"
