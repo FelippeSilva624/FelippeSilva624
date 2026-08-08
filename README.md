@@ -20,12 +20,6 @@ Felippe Aparecido da Silva
 
 Linguagens de programação:
 
-<img
-align = "left"
-alt = "PHP"
-title = "PHP"
-width = "20px"
-style = "padding-right:10px";/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=FelippeSilva624&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=FelippeSilva624&langs_count=4&theme=midnight-purple)
           
