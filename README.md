@@ -18,8 +18,9 @@ Felippe Aparecido da Silva
 **`Estudante de DSM 2º Semestre.`**
 ---
 
-###Linguagens de programação
+Linguagens de programação:
 
+---
 <img
 align = "left"
 alt = "PHP"
